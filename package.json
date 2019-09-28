@@ -1,5 +1,6 @@
 {
   "name": "junacodes.github.io",
+  "homepage": "https://junacodes.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
